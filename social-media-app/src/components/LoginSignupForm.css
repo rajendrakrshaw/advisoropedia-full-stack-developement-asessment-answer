@@ -1,0 +1,66 @@
+/* LoginSignupForm.css */
+
+.modern-form-container {
+    background-color: #ffffff;
+    color: #333333;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+  }
+  
+  .modern-form {
+    max-width: 400px;
+    margin: auto;
+  }
+  
+  .modern-heading {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333333;
+  }
+  
+  .modern-button {
+    background-color: #3498db;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    padding: 12px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .modern-button:hover {
+    background-color: #2980b9;
+  }
+  
+  .modern-message {
+    color: #333333;
+    margin-top: 10px;
+  }
+  
+  .modern-link {
+    color: #3498db;
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  
+  /* Bootstrap Overrides */
+  .form-group {
+    margin-bottom: 1.5rem;
+  }
+  
+  .form-control {
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+  }
+  
+  .form-label {
+    font-size: 14px;
+    color: #333333;
+  }
+  
+  /* Optional: Adjust spacing or other styles based on your preferences */
+  
